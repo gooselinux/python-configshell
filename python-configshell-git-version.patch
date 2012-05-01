@@ -1,0 +1,13 @@
+diff --git a/configshell/__init__.py b/configshell/__init__.py
+index 9bfcdb3..1614267 100644
+--- a/configshell/__init__.py
++++ b/configshell/__init__.py
+@@ -21,7 +21,7 @@ from shell import ConfigShell
+ from node import ConfigNode, ExecutionError
+ from prefs import Prefs
+ 
+-__version__ = 'GIT_VERSION'
++__version__ = '987b63b'
+ __author__ = "Jerome Martin <jxm@risingtidesystems.com>"
+ __url__ = "http://www.risingtidesystems.com"
+ __description__ = "A framework to implement simple but nice CLIs."
